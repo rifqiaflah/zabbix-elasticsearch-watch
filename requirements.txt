@@ -1,0 +1,4 @@
+# requirements.txt - Python dependencies for Zabbix Collector
+requests>=2.31.0
+elasticsearch>=8.0.0
+python-dotenv>=1.0.0
